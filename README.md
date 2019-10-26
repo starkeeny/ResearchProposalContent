@@ -41,10 +41,10 @@ The outline is key (clear, concise, to the point) but also use paragraphs
 
 # Tools
 - LaTeX
-  * https://de.overleaf.com/
-  * TeXnic-Center (on-prem solution)
+  - https://de.overleaf.com/
+  - TeXnic-Center (on-prem solution)
 - synchronize with a git-server (with both solutions possible)
-  * commit often on every day! and use comments
+  - commit often on every day! and use comments
 - Spell-Checker!
 - https://scholar.google.at/
   
@@ -60,9 +60,9 @@ These are some headings that _can_ be used and make sense (not strictly ordered)
 
 -	Title (Explainatory, Concise, Attention Grabbing)
 -	Intro (historical overview of topic, why you are interested in the study, 
-  * Research Question
-  * target audience
-  * State of the art
+  - Research Question
+  - target audience
+  - State of the art
 - Intended Purpose (don't assume output of the work, there is still research to do) 
 -	Methodology (qualitative, quantitative – how results are presented)
 - Significance of research (Purpose, Goal, why is it important to make the work)
@@ -75,4 +75,4 @@ These are some headings that _can_ be used and make sense (not strictly ordered)
 ## Literature Review (details)
 - Part of Research Paper
 -	Not an essay / not proof / not state anything
--	Parts: Major works in this field, Narrow topics
+-	Parts: Major (5-10) works in this field, Narrow topics
