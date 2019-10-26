@@ -47,6 +47,7 @@ The outline is key (clear, concise, to the point) but also use paragraphs
   - commit often on every day! and use comments
 - Spell-Checker!
 - https://scholar.google.at/
+- http://jabRef.org is an open source bibliography reference manager
   
 # Research Proposal
 ## General
@@ -57,9 +58,8 @@ The outline is key (clear, concise, to the point) but also use paragraphs
 
 ## Outline
 These are some headings that _can_ be used and make sense (not strictly ordered):
-
 -	Title (Explainatory, Concise, Attention Grabbing)
--	Intro (historical overview of topic, why you are interested in the study, 
+-	Intro (historical overview of topic, why you are interested in the study
   - Research Question
   - Target Audience
   - State of the art
