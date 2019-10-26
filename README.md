@@ -11,17 +11,17 @@
 - kurz (=concise)
 - selbst geschrieben
 - strukturiert (=structured; gute Variante: nach IMRaD: 
- * title, 
- * abstract, 
- * **I**ntro, 
- * Study-Site, 
- * **M**ethods, 
- * **R**esults **a**nd 
- * **D**iscussion, 
- * Conclusion, 
- * Ack,
- * References
- * Lists (=Abbildungsverzeichnis, Snippet-listing, Tabellenverzeichnis)
+  - title, 
+  - abstract, 
+  - **I**ntro, 
+  - Study-Site, 
+  - **M**ethods, 
+  - **R**esults **a**nd 
+  - **D**iscussion, 
+  - Conclusion, 
+  - Ack,
+  - References
+  - Lists (=Abbildungsverzeichnis, Snippet-listing, Tabellenverzeichnis)
 
 The outline is key (clear, concise, to the point) but also use paragraphs
   -	T,E,E: (avoid too long paragraph; 1 main idea per paragraph)
@@ -61,7 +61,7 @@ These are some headings that _can_ be used and make sense (not strictly ordered)
 -	Title (Explainatory, Concise, Attention Grabbing)
 -	Intro (historical overview of topic, why you are interested in the study, 
   - Research Question
-  - target audience
+  - Target Audience
   - State of the art
 - Intended Purpose (don't assume output of the work, there is still research to do) 
 -	Methodology (qualitative, quantitative – how results are presented)
