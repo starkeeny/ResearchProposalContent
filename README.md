@@ -58,19 +58,19 @@ The outline is key (clear, concise, to the point) but also use paragraphs
 
 ## Outline
 These are some headings that _can_ be used and make sense (not strictly ordered):
--	Title (Explainatory, Concise, Attention Grabbing)
--	Intro (historical overview of topic, why you are interested in the study
+- Title (Explainatory, Concise, Attention Grabbing)
+- Intro (historical overview of topic, why you are interested in the study
   - Research Question
   - Target Audience
   - State of the art
 - Intended Purpose (don't assume output of the work, there is still research to do) 
--	Methodology (qualitative, quantitative – how results are presented)
+- Methodology (qualitative, quantitative – how results are presented)
 - Significance of research (Purpose, Goal, why is it important to make the work)
--	Literature Review (earlier work, your work fills which gap, what is off-topic)
--	Ethical Statement (Confidential, anonym, animal-harm, well-being of participants)
--	Expected Results (what are the possible outcomes and what does that mean?)
--	Timeframes / Milestones / Budget (source of funds)
--	References (Search of similar Research important)
+- Literature Review (earlier work, your work fills which gap, what is off-topic)
+- Ethical Statement (Confidential, anonym, animal-harm, well-being of participants)
+- Expected Results (what are the possible outcomes and what does that mean?)
+- Timeframes / Milestones / Budget (source of funds)
+- References (Search of similar Research important)
 
 ## Literature Review (details)
 - Part of Research Paper
