@@ -43,6 +43,7 @@ The outline is key (clear, concise, to the point) but also use paragraphs
 - LaTeX
   - https://de.overleaf.com/
   - TeXnic-Center (on-prem solution)
+  - [VSCode](https://code.visualstudio.com/) with [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 - synchronize with a git-server (with both solutions possible)
   - commit often on every day! and use comments
 - Spell-Checker!
