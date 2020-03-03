@@ -77,3 +77,17 @@ These are some headings that _can_ be used and make sense (not strictly ordered)
 - Part of Research Paper
 -	Not an essay / not proof / not state anything
 -	Parts: Major (5-10) works in this field, Narrow topics
+
+
+# Kontrollfragen
+
+- Was gibt es aktuell? (Basierend auf der Literatur, Referenzen zur Literatur hinten)
+- Warum schreibe ich diese Arbeit? Welches Problem löse ich?
+- Was kommt am Ende raus?
+- Was werde ich tun, um meine Ziele zu erreichen?
+- Was ist out-of-scope? (Abgrenzung, Nicht-Ziele)`
+- Was tue ich genau um welches Ziel zu erreichen?
+- Wie teilt sich meine Arbeit auf (Kapitel) und was wird in welchem Bereich bearbeitet?
+- Bis wann bin ich fertig (pro Bereich)?
+
+ 
